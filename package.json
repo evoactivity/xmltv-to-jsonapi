@@ -10,7 +10,7 @@
     "url": "https://liampotter.co.uk"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=10"
   },
   "scripts": {
     "test": "xo && ava"
