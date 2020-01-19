@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "attributes": {
+        "audio": ["stereo"],
+        "categories": [
+          { "lang": "en", "value": "Newsmagazine" },
+          { "lang": "en", "value": "Interview" }
+        ],
+        "credits": [
+          { "role": "actor", "value": "Peter Bergman" },
+          { "role": "actor", "value": "Eric Braeden" },
+          { "role": "director", "value": "Bart Eskander" },
+          { "role": "producer", "value": "Roger Dobkowitz" },
+          { "role": "presenter", "value": "Drew Carey" }
+        ],
+        "date": ["20080711"],
+        "desc": [
+          {
+            "lang": "en",
+            "value": "Jordan's Queen Rania has made job creation a priority to help curb the staggering unemployment rates among youths in the Middle East."
+          }
+        ],
+        "episodeNum": [
+          { "system": "dd_progid", "value": "EP01006886.0028" },
+          { "system": "onscreen", "value": "427" }
+        ],
+        "icons": [
+          "http://imageswoapi.whatsonindia.com/WhatsOnTV/images/ProgramImages/xlarge/38B4DE4E9A7132257749051B6C8B4F699DB264F4V.jpg"
+        ],
+        "previouslyShown": [{ "start": "20080711000000" }],
+        "rating": [{ "system": "VCHIP", "value": "TV-G" }],
+        "start": "20080715003000 -0600",
+        "stop": "20080715010000 -0600",
+        "subtitles": [{ "type": "teletext" }],
+        "title": [{ "lang": "en", "value": "NOW on PBS" }]
+      },
+      "id": "I10436.labs.zap2it.com-20080715003000--0600-20080715010000--0600",
+      "relationships": {
+        "channel": {
+          "data": { "id": "I10436.labs.zap2it.com", "type": "xmltv-channel" }
+        }
+      },
+      "type": "xmltv-programmes"
+    },
+    {
+      "attributes": {
+        "audio": [],
+        "categories": [],
+        "credits": [],
+        "date": [],
+        "desc": [],
+        "episodeNum": [],
+        "icons": [],
+        "previouslyShown": [],
+        "rating": [],
+        "start": "20080715010000 -0600",
+        "stop": "20080715023000 -0600",
+        "subtitles": [],
+        "title": []
+      },
+      "id": "I10759.labs.zap2it.com-20080715010000--0600-20080715023000--0600",
+      "relationships": {
+        "channel": {
+          "data": { "id": "I10759.labs.zap2it.com", "type": "xmltv-channel" }
+        }
+      },
+      "type": "xmltv-programmes"
+    }
+  ],
+  "included": [
+    {
+      "attributes": {
+        "icons": ["https://i.imgur.com/kJCjeQ4.png"],
+        "name": "13 KERA",
+        "url": "http://www.whatsonarabia.com"
+      },
+      "id": "I10436.labs.zap2it.com",
+      "type": "xmltv-channel"
+    },
+    {
+      "attributes": { "icons": [], "name": "11 KTVT", "url": "" },
+      "id": "I10759.labs.zap2it.com",
+      "type": "xmltv-channel"
+    }
+  ]
+}

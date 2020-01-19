@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="I10759.labs.zap2it.com">
+    <display-name>11 KTVT</display-name>
+  </channel>
+  <programme start="20080715010000 -0600" stop="20080715023000 -0600" channel="I10759.labs.zap2it.com"></programme>
+</tv>

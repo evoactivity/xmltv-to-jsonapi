@@ -1,0 +1,42 @@
+{
+  "name": "xmltv-to-jsonapi",
+  "version": "0.0.1",
+  "description": "Take an XMLTV file and convert to valid JSON:API using relationships",
+  "license": "MIT",
+  "repository": "evoactivity/xmltv-to-jsonapi",
+  "author": {
+    "name": "Liam Potter",
+    "email": "hello@liampotter.co.uk",
+    "url": "https://liampotter.co.uk"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "XMLTV",
+    "EPG",
+    "IPTV",
+    "JSONAPI",
+    "JSON API",
+    "JSON:API",
+    "Convert",
+    "Transform",
+    "Serialize"
+  ],
+  "dependencies": {
+    "camaro": "^3.0.19"
+  },
+  "devDependencies": {
+    "ava": "^2.1.0",
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "prettier": true
+  }
+}
