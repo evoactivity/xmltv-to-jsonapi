@@ -1,6 +1,6 @@
 {
   "name": "xmltv-to-jsonapi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Take an XMLTV file and convert to valid JSON:API using relationships",
   "license": "MIT",
   "repository": "evoactivity/xmltv-to-jsonapi",
