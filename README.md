@@ -12,7 +12,7 @@ $ yarn add xmltv-to-jsonapi
 
 ```js
 const fs = require('fs');
-const xmltvToJsonapi = require('unicorn-fun');
+const xmltvToJsonapi = require('xmltv-to-jsonapi');
 
 const xmltvData = fs.readFileSync('examples/epg.xml', 'utf-8');
 
