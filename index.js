@@ -5,7 +5,7 @@ const JsonApiTemplate = {
   data: [
     '//programme',
     {
-      type: '#xmltv-programmes',
+      type: '#xmltv-programme',
       id: "translate(string-join(@channel|@start|@stop, '-'), ' ', '-')",
       attributes: {
         start: '@start',
