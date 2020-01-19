@@ -41,7 +41,7 @@
           "data": { "id": "I10436.labs.zap2it.com", "type": "xmltv-channel" }
         }
       },
-      "type": "xmltv-programmes"
+      "type": "xmltv-programme"
     },
     {
       "attributes": {
@@ -65,7 +65,7 @@
           "data": { "id": "I10759.labs.zap2it.com", "type": "xmltv-channel" }
         }
       },
-      "type": "xmltv-programmes"
+      "type": "xmltv-programme"
     }
   ],
   "included": [
