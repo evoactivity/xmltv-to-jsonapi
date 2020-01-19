@@ -1,4 +1,4 @@
-# XMLTV to JSON:API [![Build Status](https://travis-ci.org/evoactivity/xmltv-to-jsonapi.svg?branch=master)](https://travis-ci.org/evoactivity/xmltv-to-jsonapi)
+# XMLTV to JSON:API [![Build Status](https://travis-ci.org/evoactivity/xmltv-to-jsonapi.svg?branch=master)](https://travis-ci.org/evoactivity/xmltv-to-jsonapi) ![Code Climate issues](https://img.shields.io/codeclimate/issues/evoactivity/xmltv-to-jsonapi?label=CodeClimate)
 
 > Make use of JSON:API's relationship model to work with XMLTV data
 
