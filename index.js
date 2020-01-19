@@ -79,9 +79,15 @@ const JsonApiTemplate = {
       type: '#xmltv-channel',
       id: '@id',
       attributes: {
-        name: 'display-name',
+        name: [
+          'display-name',
+          {
+            lang: '@lang',
+            value: '.'
+          }
+        ],
         icons: ['icon', '@src'],
-        url: 'url'
+        url: ['url', '.']
       }
     }
   ]

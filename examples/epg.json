@@ -72,14 +72,27 @@
     {
       "attributes": {
         "icons": ["https://i.imgur.com/kJCjeQ4.png"],
-        "name": "13 KERA",
-        "url": "http://www.whatsonarabia.com"
+        "name": [
+          {
+            "lang": "fr",
+            "value": "13 KERA"
+          },
+          {
+            "lang": "ar",
+            "value": "13"
+          }
+        ],
+        "url": ["http://www.whatsonarabia.com"]
       },
       "id": "I10436.labs.zap2it.com",
       "type": "xmltv-channel"
     },
     {
-      "attributes": { "icons": [], "name": "11 KTVT", "url": "" },
+      "attributes": {
+        "icons": [],
+        "name": [{ "lang": "", "value": "11 KTVT" }],
+        "url": []
+      },
       "id": "I10759.labs.zap2it.com",
       "type": "xmltv-channel"
     }
