@@ -93,7 +93,7 @@ const JsonApiTemplate = {
   ]
 };
 
-module.exports = async xmltvData => {
+module.exports = async (xmltvData) => {
   const result = await transform(xmltvData, JsonApiTemplate);
   const jsonApiResult = JSON.stringify(result);
 
