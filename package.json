@@ -33,8 +33,8 @@
     "camaro": "^3.0.19"
   },
   "devDependencies": {
-    "ava": "^2.1.0",
-    "xo": "^0.24.0"
+    "ava": "^3.7.0",
+    "xo": "^0.29.1"
   },
   "xo": {
     "prettier": true
