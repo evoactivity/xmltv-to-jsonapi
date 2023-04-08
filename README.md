@@ -1,3 +1,5 @@
+# 🚨🚨 Archived. Please see if [@iptv/xmltv](https://github.com/ektotv/xmltv) can fulfil your needs, you will need to write a serializer to output JSON:API structure.
+
 # XMLTV to JSON:API [![Build Status](https://travis-ci.com/evoactivity/xmltv-to-jsonapi.svg?branch=master)](https://travis-ci.com/evoactivity/xmltv-to-jsonapi) ![Code Climate issues](https://img.shields.io/codeclimate/issues/evoactivity/xmltv-to-jsonapi?label=CodeClimate)
 
 > Make use of JSON:API's relationship model to work with XMLTV data
